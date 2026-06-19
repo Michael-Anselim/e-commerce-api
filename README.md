@@ -66,3 +66,5 @@ Follow these sequential steps to configure your local development environment.
 7. **To view live API documentations visit :**
    *Your application will be live at `http://127.0.0.1:8000/docs/api`.*
 
+8. **Prohect URL **
+   `https://roadmap.sh/projects/ecommerce-api`
